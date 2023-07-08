@@ -1,0 +1,16 @@
+h1{
+    color: rgb(96, 128, 96)
+    
+}
+strong{
+    color: rgb(3, 60, 1);
+}
+li{
+    color: rgba(2, 63, 2, 0.681);
+}
+ins{
+    color: rgb(3, 60, 1)
+}
+em{
+    background-color:rgb(207, 226, 207);
+}
